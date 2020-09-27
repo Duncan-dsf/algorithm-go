@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "algorithm.com/leetcode/normal"
+import "algorithm/leetcode/normal"
 
 func main() {
 
